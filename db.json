@@ -6,7 +6,10 @@
 	  "uid_r":"01d268d8-fed9-41dd-9373-19d06059a289",
 	  "imei":"1854680114",
       "num_app":1,
-	  "num_ticket":10
+	  "num_ticket":10,
+	  "texte_entete":"Bonjour\ret\rBienvenue",
+	  "texte_observation":"PLACEO est propriétaire\nde cet appareil",
+	  "texte_pieds":"Au revoir et à bientôt"
     },
 	{
       "uid": "74d48b9e-3743-4083-91c8-6c603ca548ad",
@@ -14,7 +17,10 @@
 	  "uid_r":"f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
 	  "imei":"1854680114",
       "num_app":1,
-	  "num_ticket":5
+	  "num_ticket":5,
+	  "texte_entete":"Bonjour\ret\rBienvenue",
+	  "texte_observation":"Propriétaire de l'appareil: 06.XX.XX.XX.XX",
+	  "texte_pieds":"Au revoir et à bientôt"
     },
 	{
       "uid": "7b6cff57-6f12-4e8f-af36-9153a447832b",
@@ -22,7 +28,10 @@
 	  "uid_r":"f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
 	  "imei":"1853060189",
 	  "num_app":2,
-	  "num_ticket":3
+	  "num_ticket":3,
+	  "texte_entete":"Bonjour\ret\rBienvenue",
+	  "texte_observation":"PLACEO est propriétaire\nde cet appareil",
+	  "texte_pieds":"Au revoir et à bientôt"
     },
     {
       "uid": "9723c5e6-fb46-45b9-b4b7-4a56f66dd189",
@@ -30,7 +39,10 @@
 	  "uid_r": "8c087a8e-5f4d-4ae9-9350-89930ac2656f",
 	  "imei": "1854680114",
       "num_app":3,
-	  "num_ticket":100
+	  "num_ticket":100,
+	  "texte_entete":"Bonjour\ret\rBienvenue",
+	  "texte_observation":"PLACEO est propriétaire\nde cet appareil",
+	  "texte_pieds":"Au revoir et à bientôt"
     }
   ]
 }
