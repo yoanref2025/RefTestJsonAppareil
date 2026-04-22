@@ -7,7 +7,7 @@
 	  "imei":"1854680114",
       "num_app":1,
 	  "num_ticket":10,
-	  "texte_entete":"Bonjour\ret\rBienvenue",
+	  "texte_entete":"Bonjour\net\nBienvenue",
 	  "texte_observation":"PLACEO est propriétaire\nde cet appareil",
 	  "texte_pieds":"Au revoir et à bientôt"
     },
@@ -18,7 +18,7 @@
 	  "imei":"1854680114",
       "num_app":1,
 	  "num_ticket":5,
-	  "texte_entete":"Bonjour\ret\rBienvenue",
+	  "texte_entete":"Bonjour\net\nBienvenue",
 	  "texte_observation":"Propriétaire de l'appareil: 06.XX.XX.XX.XX",
 	  "texte_pieds":"Au revoir et à bientôt"
     },
@@ -29,8 +29,8 @@
 	  "imei":"1853060189",
 	  "num_app":2,
 	  "num_ticket":3,
-	  "texte_entete":"Bonjour\ret\rBienvenue",
-	  "texte_observation":"PLACEO est propriétaire\nde cet appareil",
+	  "texte_entete":"Bonjour\net\nBienvenue",
+	  "texte_observation":"Propriétaire de l'appareil: 06.XX.XX.XX.XX",
 	  "texte_pieds":"Au revoir et à bientôt"
     },
     {
@@ -40,8 +40,8 @@
 	  "imei": "1854680114",
       "num_app":3,
 	  "num_ticket":100,
-	  "texte_entete":"Bonjour\ret\rBienvenue",
-	  "texte_observation":"PLACEO est propriétaire\nde cet appareil",
+	  "texte_entete":"Bonjour\net\nBienvenue",
+	  "texte_observation":"Propriétaire de l'appareil: 06.XX.XX.XX.XX",
 	  "texte_pieds":"Au revoir et à bientôt"
     }
   ]
