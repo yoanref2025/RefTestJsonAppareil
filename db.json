@@ -9,7 +9,8 @@
 	  "num_ticket":10,
 	  "texte_entete":"Bonjour\net\nBienvenue",
 	  "texte_observation":"PLACEO est propriétaire\nde cet appareil",
-	  "texte_pieds":"Au revoir et à bientôt"
+	  "texte_pieds":"Au revoir et à bientôt",
+	  "si_active":true
     },
 	{
       "uid": "74d48b9e-3743-4083-91c8-6c603ca548ad",
@@ -20,7 +21,8 @@
 	  "num_ticket":5,
 	  "texte_entete":"Bonjour\net\nBienvenue",
 	  "texte_observation":"Propriétaire de l'appareil: 06.XX.XX.XX.XX",
-	  "texte_pieds":"Au revoir et à bientôt"
+	  "texte_pieds":"Au revoir et à bientôt",
+	  "si_active":true
     },
 	{
       "uid": "7b6cff57-6f12-4e8f-af36-9153a447832b",
@@ -31,7 +33,8 @@
 	  "num_ticket":3,
 	  "texte_entete":"Bonjour\net\nBienvenue",
 	  "texte_observation":"Propriétaire de l'appareil: 06.XX.XX.XX.XX",
-	  "texte_pieds":"Au revoir et à bientôt"
+	  "texte_pieds":"Au revoir et à bientôt",
+	  "si_active":true
     },
     {
       "uid": "9723c5e6-fb46-45b9-b4b7-4a56f66dd189",
@@ -42,7 +45,8 @@
 	  "num_ticket":100,
 	  "texte_entete":"Bonjour\net\nBienvenue",
 	  "texte_observation":"Propriétaire de l'appareil: 06.XX.XX.XX.XX",
-	  "texte_pieds":"Au revoir et à bientôt"
+	  "texte_pieds":"Au revoir et à bientôt",
+	  "si_active":true
     }
   ]
 }
