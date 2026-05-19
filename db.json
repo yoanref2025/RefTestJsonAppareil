@@ -23,6 +23,7 @@
 	  "texte_entete":"Bonjour\net\nBienvenue",
 	  "texte_observation":"Propriétaire de l'appareil: 06.XX.XX.XX.XX",
 	  "texte_pieds":"Au revoir et à bientôt",
+	  "si_pieds_placeo":false,
 	  "si_active":true
     },
 	{
@@ -35,7 +36,6 @@
 	  "texte_entete":"Bonjour\net\nBienvenue",
 	  "texte_observation":"Propriétaire de l'appareil: 06.XX.XX.XX.XX",
 	  "texte_pieds":"Au revoir et à bientôt",
-	  "si_pieds_placeo":true,
 	  "si_active":true
     },
     {
